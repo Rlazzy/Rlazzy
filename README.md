@@ -1,5 +1,3 @@
-
-
 # [FIGMA - Тестовий дизайн сайта - проба анімацій](https://www.figma.com/design/Ld1NvGfwO1IdDygwmE2QpE/Morshynska?node-id=0-1&t=nTRduwTMCJ4r0EjL-1)
 
 * Пробний дизайн сайта, на якому я вже вчився використовувати вивчені вміння на практиці
@@ -94,12 +92,12 @@ Run with Firebase backend.
 * ARKit Face Tracking feature
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/88236681-64cfea00-cc32-11ea-8dac-5013d1e660dc.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/88236534-16225000-cc32-11ea-8079-93716c06e8c3.gif" width="230"  title="ARKit Face Tracking feature">
+
 </p>
 
 ## Дякую за перегляд!
 
 # Contact Info:
 
-- Email: decodealex1@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- Email: 
+- LinkedIn: 
